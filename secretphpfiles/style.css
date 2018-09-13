@@ -16,3 +16,11 @@ body {
   width: 75%;
   height: 10%;
 }
+
+.formresponse {
+  border: solid 1px black;
+  padding: 2rem;
+  margin: 2rem auto;
+  width: 400px;
+  height: 600px;
+}

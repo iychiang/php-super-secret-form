@@ -16,6 +16,8 @@
     <p>Enter your full name: <input name='fullname' type='text'><p>
     <p>What is your birthday? <input name='birthday' type='text'></p>
     <p>Phone number? <input name= 'phonenumber' type='text'></p>
+    <p>Mother's maiden name? <input name= 'maidenname' type='text'></p>
+    <p>Pet's name? <input name= 'petname' type='text'></p>
     <p>Social Security number? <input name='ssnumber' type='text'></p>
     <p>Credit card number? <input name='ccnumber' type='text'></p>
     <p>Name on credit card? <input name='ccname' type='text'></p>
