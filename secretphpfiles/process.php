@@ -16,8 +16,14 @@
     echo 'Your secrets are safe!';
   ?>
 </h2>
-  <br>
-  <?php echo '(By the way, you shouldn\'t give away your personal information so freely)'; ?>
+  <?php
+    date_default_timezone_set('UTC');
+    echo 'Info sealed away at ';
+    echo date('h:i a');
+  ?>
+    <br>
+  <?php echo '<p>(By the way, you shouldn\'t give away your personal information so freely)</p>'; 
+  ?>
 </div>
 </body>
 </html>
